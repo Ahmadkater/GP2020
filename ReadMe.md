@@ -20,8 +20,8 @@ educational tablet devices that digitalize their learning journey.
 
 Type |Describtion|Image
 |-----------------|-------------|-------------|
-Marker-Based AR  |It makes use of device's camera and a virtual marker as a target to activate some AR components just when the target is identified by the camera.|![Marker-Less](./images/ImageTarget.jpg)
-Marker-Less AR   |The device's sensors collect visual data from the physical world in terms of feature points. Clusters of feature points that appear to lie on common horizontal or vertical surfaces, are likely to be tables or walls, thus surfaces and planes are detected and 3D objects can be augmented on it.|![Marker-Less](./images/Marker-Less.png)
+Marker-Based AR  |It makes use of device's camera and a virtual marker as a target to activate some AR components just when the target is identified by the camera.|![Marker-Less](Images/ImageTarget.jpg)
+Marker-Less AR   |The device's sensors collect visual data from the physical world in terms of feature points. Clusters of feature points that appear to lie on common horizontal or vertical surfaces, are likely to be tables or walls, thus surfaces and planes are detected and 3D objects can be augmented on it.|![Marker-Less](Images/Marker-Less.png)
 
 > Check this part of our recorded presentation for more details about [types of AR and mobile interaction](https://www.youtube.com/embed/7Odu_44JaV4?start=591) .
 
@@ -56,9 +56,9 @@ In ```Human Body``` there are models of Heart , Lung , Skeletal System , Eye. Al
 
 |Marker-Based Image Target AR part | Marker-Less AR part|
 |-----------------------------|---------------|
-|![ImageTarget](./images/MAR_ImageTarget.png) |![MarkerLess](./images/markerless_25.jpg)|
-|![ImageTarget](./images/Skull.png) |![Subjects](./images/lung.png)|
-|![Earth](./images/earth.png)|![solar.png](./images/solar.png)|
+|![ImageTarget](Images/MAR_ImageTarget.png) |![MarkerLess](Images/markerless_25.jpg)|
+|![ImageTarget](Images/Skull.png) |![Subjects](Images/lung.png)|
+|![Earth](Images/earth.png)|![solar.png](Images/solar.png)|
 
 <br>
 
